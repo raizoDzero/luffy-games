@@ -1,0 +1,29 @@
+{
+    "id": "123123",
+    "marca": "Lenovo",
+    "modelo": "T480",
+    "images": {
+      "cover":
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-feature-03.jpg?context=bWFzdGVyfHJvb3R8NDk0OTN8aW1hZ2UvanBlZ3xoNDkvaDJiLzk2MTA3MDg3NzkwMzguanBnfDE5NzE4YzViY2MzMzYwMTExNmIwOTIxMjExYzYzMzViYjExNzlkMDk2N2ZhNGQ3ZjlkYjE1NzBlNTJhNzQyYmI&w=1920",
+      "extra": [
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-gallery-01.jpg?context=bWFzdGVyfHJvb3R8NzA2NTN8aW1hZ2UvanBlZ3xoNWYvaGY3Lzk2MTExODA5NjU5MTguanBnfDQwYTRlMDY5NjVjMWQ0MDIwMzk0ODJhMWJlYTIyYWI0NGI4NTM2NjYxZDhhYTdmZWI4ZTliNDg5NGYxMTg3NGI",
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-gallery-02.jpg?context=bWFzdGVyfHJvb3R8OTYyODh8aW1hZ2UvanBlZ3xoYmYvaDYzLzk2MTExODEyNjA4MzAuanBnfDNjZDI2OGI1ZDU2ZTUyNDkzNWJmNzY2OGMxY2JlOGRjMDdmNzIwMTBmYzMxN2JiMmNjMDhmNWY4OWI3N2I1Mzg",
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-gallery-04.jpg?context=bWFzdGVyfHJvb3R8Mzg2NDd8aW1hZ2UvanBlZ3xoMGEvaDc0Lzk2MTExODE5ODE3MjYuanBnfGM1NTdmMDM3NWQwNGJkMmY4MDJiZmY0MzIxMmQ1NDk2NzBmYjE5ODAyYWJmZTc2Mjc2ZjFiODBjNzk3MDJhOWE"
+      ]
+    },
+    "costo": 6000,
+    "precio": 11300,
+    "disponibles": 1,
+    "shortMicro": "Intel core i5",
+    "type": "Touch",
+    "rendimiento": "testing",
+    "specs": "testing",
+    "specOthers": "testing",
+    "ports": "testing",
+    "special": "testing",
+    "garantia": "1 año",
+    "os": "Windows 10 PRO",
+    "recomendacion": "Uso rudo (software pesado sin problema)",
+    "detalles": "Ninguno, se encuentra en perfecto estado",
+    "estetica": "8.5/10"
+  }

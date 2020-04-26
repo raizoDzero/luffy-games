@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "id": "5e72b026c10fc02afa38db9c", "piezas": 1, "precio": 11300 },
+    { "id": "5e73cfc2056fba3ad5c6aee5", "piezas": 1, "precio": 11300 }
+  ],
+  "envioTipo": "paqueteria",
+  "pagoTipo": "online",
+  "correo": "pruebas@duras.mlg",
+  "nombre": "Mr",
+  "apellido": "Duro",
+  "total": 22600,
+  "estatus": "prepago",
+  "tel": "5533700670",
+  "domicilio": {
+    "nombre": "Test",
+    "cp": "Test",
+    "estado": "Test",
+    "municipio": "Test",
+    "colonia": "Test",
+    "calle": "Test",
+    "exterior": "Test",
+    "interior": "Test",
+    "entreC1":"Test",
+    "entreC2": "Test",
+    "referencia": "Test",
+    "domType": "Test",
+    "num": "Test"
+  }
+}

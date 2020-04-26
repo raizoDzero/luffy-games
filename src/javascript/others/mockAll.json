@@ -1,0 +1,54 @@
+[
+  {
+    "id": "123123",
+    "marca": "Lenovo",
+    "modelo": "T480",
+    "images": {
+      "cover":
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-feature-03.jpg?context=bWFzdGVyfHJvb3R8NDk0OTN8aW1hZ2UvanBlZ3xoNDkvaDJiLzk2MTA3MDg3NzkwMzguanBnfDE5NzE4YzViY2MzMzYwMTExNmIwOTIxMjExYzYzMzViYjExNzlkMDk2N2ZhNGQ3ZjlkYjE1NzBlNTJhNzQyYmI&w=1920"      
+    },
+    "precio": 11300,
+    "disponibles": 1,
+    "shortMicro": "Intel core i5",
+    "type": "Touch"
+  },
+  {
+    "id": "123123",
+    "marca": "Lenovo",
+    "modelo": "T480",
+    "images": {
+      "cover":
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-feature-03.jpg?context=bWFzdGVyfHJvb3R8NDk0OTN8aW1hZ2UvanBlZ3xoNDkvaDJiLzk2MTA3MDg3NzkwMzguanBnfDE5NzE4YzViY2MzMzYwMTExNmIwOTIxMjExYzYzMzViYjExNzlkMDk2N2ZhNGQ3ZjlkYjE1NzBlNTJhNzQyYmI&w=1920"      
+    },
+    "precio": 11300,
+    "disponibles": 1,
+    "shortMicro": "Intel core i5",
+    "type": "Touch"
+  },
+  {
+    "id": "123123",
+    "marca": "Lenovo",
+    "modelo": "T480",
+    "images": {
+      "cover":
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-feature-03.jpg?context=bWFzdGVyfHJvb3R8NDk0OTN8aW1hZ2UvanBlZ3xoNDkvaDJiLzk2MTA3MDg3NzkwMzguanBnfDE5NzE4YzViY2MzMzYwMTExNmIwOTIxMjExYzYzMzViYjExNzlkMDk2N2ZhNGQ3ZjlkYjE1NzBlNTJhNzQyYmI&w=1920"      
+    },
+    "precio": 11300,
+    "disponibles": 1,
+    "shortMicro": "Intel core i5",
+    "type": "Touch"
+  },
+  {
+    "id": "123123",
+    "marca": "Lenovo",
+    "modelo": "T480",
+    "images": {
+      "cover":
+        "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t480-feature-03.jpg?context=bWFzdGVyfHJvb3R8NDk0OTN8aW1hZ2UvanBlZ3xoNDkvaDJiLzk2MTA3MDg3NzkwMzguanBnfDE5NzE4YzViY2MzMzYwMTExNmIwOTIxMjExYzYzMzViYjExNzlkMDk2N2ZhNGQ3ZjlkYjE1NzBlNTJhNzQyYmI&w=1920"      
+    },
+    "precio": 11300,
+    "disponibles": 1,
+    "shortMicro": "Intel core i5",
+    "type": "Touch"
+  }
+]
